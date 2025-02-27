@@ -1,1 +1,2 @@
-game score tracking
+game score tracking in git 
+
